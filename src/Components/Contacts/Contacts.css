@@ -1,0 +1,21 @@
+.contact{
+    background: #171927;
+    height: 110vh;
+    color: #dddddd;
+}
+.formBox{
+    padding: 5%;
+    background: #22243b;
+    border-radius: 15px;
+}
+.formBox button{
+    margin-left: 45%;
+    margin-top: 5px;
+    width: 100px;
+    font-weight: 600;
+    letter-spacing: 0.05px;
+    transition: 0.2s ease-in-out;
+}
+.formBox button:hover{
+    transform: translateY(-3px);
+}

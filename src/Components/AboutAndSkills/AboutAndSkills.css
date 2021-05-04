@@ -1,0 +1,84 @@
+.about-skills-sec{
+    background: #171927;
+    /* height: 170vh; */
+}
+.img-abt img{
+    width: 45%;
+    border-radius: 50%;
+    margin-bottom: 20px;
+    margin-left: 25%;
+}
+.img-abt{
+    color: #e7e7e7;
+}
+.span-is-name{
+    font-size: 25px;
+}
+.span-full-name{
+    color: #f75538;
+    font-weight: 700;
+}
+.img-abt h3{
+    color: #00ccbb;
+}
+.img-abt p{
+    letter-spacing: .5px;
+    font-size: 17px;
+}
+.skills{
+    color: #e7e7e7;   
+}
+.skills h4{
+    border-bottom: 2px solid rgb(148, 148, 148);
+}
+.name-of-skils{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+}
+
+.name-of-skils h6 {
+    background: #4b5769;
+    margin-right: 10px;
+    margin-top: 15px;
+    border-radius: 3px;
+    padding: 10px 15px;
+    height: 44px;
+    font-size: 16px ;
+    cursor: pointer;
+    transition: 0.2s ease-in-out;
+}
+.name-of-skils h6:hover{
+    transform: translateY(-7px);
+}
+
+.button-resume-abt{
+    background: #329632;
+    color: #dbdbdb;
+    font-size: 19px;
+    font-weight: 500;
+    margin-right: 15px;
+    border: 2px solid #329632;
+}
+.button-hire-abt{
+    background: #ca1a46;
+    color: #dbdbdb;
+    font-size: 19px;
+    font-weight: 500;
+    margin-right: 15px;
+    border: 2px solid #ca1a46;
+} 
+.button-hire-abt:hover{
+    background: none;
+    color: #f1f1f1;
+}
+.button-resume-abt:hover{
+    background: none;
+    color: #f1f1f1;
+}
+
+@media(max-width: 768px){
+    .name-of-skils{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+    }
+}

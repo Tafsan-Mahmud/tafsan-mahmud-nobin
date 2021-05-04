@@ -1,0 +1,19 @@
+.footer-style{
+    background:#3f3f3f;
+    height: 20vh;
+    
+}
+.footer-style img{
+    width: 40px;
+    border-radius: 50%;
+    margin: 8px;
+    transition: 0.2s ease-in-out;
+}
+.footer-style img:hover{
+    transform: translateY(-10px);
+}
+.footer-style p{
+    color: #c5c5c5;
+    letter-spacing: 1px;
+    font-size: 18px;
+}

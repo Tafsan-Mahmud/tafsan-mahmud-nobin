@@ -1,0 +1,19 @@
+.technology {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    margin-bottom: 15px;
+    color: #f1f1f1;
+}
+.technology span {
+    margin-right: 5px;
+    margin-top: 5px;
+    font-size: 14px;
+    height: 26px;
+    background: rgb(75, 87, 105);
+    border-radius: 3px;
+    padding: 2px 10px;
+}
+.margin{
+    margin-right: 10%;
+}

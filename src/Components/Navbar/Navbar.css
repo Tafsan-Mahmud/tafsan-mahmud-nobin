@@ -1,0 +1,29 @@
+.nav-font-clr {
+    color: #dddddd !important;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 20px;
+    padding-right: 18px !important;
+    padding-left: 18px !important;
+    border-left: 1px solid lightgray;
+}
+.bg-navbar{
+    background: #3838389d;
+    padding: 0 !important;
+}
+.nav-font-clr:hover{
+    color: rgb(0, 0, 0) !important;
+    background: #d89d45;
+    padding: 20px; 
+}
+.login-spcl {
+    border-right: 1px solid lightgray;
+}
+.login-spcl:hover{
+    background: rgb(255, 81, 18);
+}
+.brand-name{
+    font-size: 40px;
+    font-weight: 600;
+    color: #d69d47 !important;
+}

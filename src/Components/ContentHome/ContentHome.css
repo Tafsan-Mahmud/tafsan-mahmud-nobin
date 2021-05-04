@@ -1,0 +1,43 @@
+.content-home{
+    height: 90vh;
+}
+.img-home img{
+     border-radius: 50%;
+     width: 80%;
+}
+.text-part-content-home h4{
+    font-size: 30px ;
+    color: #363636;
+}
+.text-part-content-home h1{
+    font-size: 52px;
+    font-weight: 700;
+    color: #242424;
+}
+.text-part-content-home p{
+    letter-spacing: .5px;
+    color: #252525;
+    font-size: 18px;
+}
+.button-resume-d{
+    background: #329632;
+    color: #dbdbdb;
+    font-size: 19px;
+    font-weight: 500;
+    margin-right: 15px;
+    border: 2px solid #329632;
+}
+.button-hire{
+    background: #ca1a46;
+    color: #dbdbdb;
+    font-size: 19px;
+    font-weight: 500;
+    margin-right: 15px;
+    border: 2px solid #ca1a46;
+} 
+.button-hire:hover{
+    background: none;
+}
+.button-resume-d:hover{
+    background: none;
+}
