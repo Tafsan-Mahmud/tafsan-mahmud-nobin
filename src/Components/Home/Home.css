@@ -1,5 +1,10 @@
 .home-bg{
-    background:rgb(204, 204, 204);
+    background:#cccccc;
     height:100vh;
     background-size: cover;
+}
+@media screen and (max-width: 680px ){
+    .home-bg{
+        height: 120vh;
+    }
 }

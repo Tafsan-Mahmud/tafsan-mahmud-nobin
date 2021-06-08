@@ -1,9 +1,13 @@
 .content-home{
     height: 90vh;
 }
+.bg-height{
+    height: 600px;
+}
 .img-home img{
      border-radius: 50%;
-     width: 80%;
+     width: 70%;
+     margin-left: 5%;
 }
 .text-part-content-home h4{
     font-size: 30px ;
@@ -40,4 +44,12 @@
 }
 .button-resume-d:hover{
     background: none;
+}
+
+
+
+@media screen and (max-width: 680px ){
+    .bg-height{
+        height: 105vh;
+    }
 }

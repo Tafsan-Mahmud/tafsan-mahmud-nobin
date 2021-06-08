@@ -19,13 +19,20 @@ const AboutAndSkills = () => {
                             <img src={picForSkils} alt="" />
                             <h3>Hi There!</h3>
                             <h1><span className="span-is-name">My Name IS </span><span className="span-full-name">Tafsan Mahmud Nobin</span></h1>
-                            <p>I am a Full stack Web Developer. What I like is to learn new things and work hard.
+                            <p>I am a Full stack Web Developer ,photographer and Photoshop editor. What I like is to learn new things and work hard.I don't like is wasting time
                                 <br />
-                                <br />
-                               and im a photographer and Photoshop editor
-                                <br />
-                                <br />
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum minima, unde dolore autem accusamus recusandae quos nam saepe suscipit provident at molestias sequi atque, consequatur doloremque fugit labore hic commodi!
+                                   Thing's I am good at-
+                                   <br/>
+                                   1. Solidework
+                                   <br/>
+                                   2. Codind
+                                   <br/>
+                                   3. Heard Work
+                                   <br/>
+                                   I love taking challenges for hard work and Problem solving.
+                                   <br/>
+                                   I am bad at-
+                                   Maybe it's not a good place to discuss it. I'm punctual and dedicated. Give me a chance and you won't regret it .
                            </p>
                             <button type="button" class="btn button-hire-abt">HIRE ME <FontAwesomeIcon icon={faUserShield} /></button>
                             <a href="https://drive.google.com/uc?export=download&id=1TkxF7iaeAT5iSiB9dPsYoJUQOw91-ohK"><button type="button" class="btn button-resume-abt">Download Resume <FontAwesomeIcon icon={faDownload} /></button></a>
