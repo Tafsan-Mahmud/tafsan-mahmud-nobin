@@ -11,7 +11,7 @@ const footer = () => {
                 <a href="https://github.com/Tafsan-Mahmud" target="_blank" rel="noreferrer"><img src={pic1} alt=""/></a>
                 <a href="https://www.facebook.com/tafsanmahmudnobin090" target="_blank" rel="noreferrer"><img src={pic2} alt=""/></a>
                 <a href="https://www.instagram.com/tafsan_mahmud_07" target="_blank" rel="noreferrer"><img src={pic3} alt=""/></a>
-                <a href="https://www.linkedin.com/in/tafsanmahmudnobin" target="_blank" rel="noreferrer"><img src={pic4} alt=""/></a>
+                <a href="https://www.linkedin.com/in/abuhasnatnobin/" target="_blank" rel="noreferrer"><img src={pic4} alt=""/></a>
             </div>
              <p className="text-center mt-4">Copyright {(new Date().getFullYear())} All Rights Reserved</p>
         </div>

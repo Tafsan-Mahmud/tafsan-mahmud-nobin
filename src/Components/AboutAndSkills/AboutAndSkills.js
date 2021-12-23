@@ -18,8 +18,8 @@ const AboutAndSkills = () => {
                         <div className="img-abt">
                             <img src={picForSkils} alt="" />
                             <h3>Hi There!</h3>
-                            <h1><span className="span-is-name">My Name IS </span><span className="span-full-name">Tafsan Mahmud Nobin</span></h1>
-                            <p>I am a Full stack Web Developer ,photographer and Photoshop editor. What I like is to learn new things and work hard.I don't like is wasting time
+                            <h1><span className="span-is-name">My Name IS </span><span className="span-full-name">Abu Hasnat Nobin</span></h1>
+                            <p>I am a MERN-stack Developer ,photographer and Photoshop editor. What I like is to learn new things and work hard.I don't like is wasting time
                                 <br />
                                    Thing's I am good at-
                                    <br/>
@@ -35,7 +35,7 @@ const AboutAndSkills = () => {
                                    Maybe it's not a good place to discuss it. I'm punctual and dedicated. Give me a chance and you won't regret it .
                            </p>
                             <button type="button" class="btn button-hire-abt">HIRE ME <FontAwesomeIcon icon={faUserShield} /></button>
-                            <a href="https://drive.google.com/uc?export=download&id=1TkxF7iaeAT5iSiB9dPsYoJUQOw91-ohK"><button type="button" class="btn button-resume-abt">Download Resume <FontAwesomeIcon icon={faDownload} /></button></a>
+                            <a href="https://drive.google.com/uc?export=download&id=1HB6OiRHK74ZVDjeX1Uol9sHDEdrLmNW7"><button type="button" class="btn button-resume-abt">Download Resume <FontAwesomeIcon icon={faDownload} /></button></a>
                         </div>
                     </div>
                     <div class="col-md-6 col-sm-12 col-xs-12 pb-3">
